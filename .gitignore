@@ -1,0 +1,9 @@
+/dataset
+/csv_result
+/attention_map
+/__pycache__
+/adaboost_model
+/epoch_compare_pictures
+/models
+/nocat_MalConvGCT_channels_128_filterSize_256_stride_64_embdSize_8
+/pictures
